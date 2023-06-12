@@ -28,6 +28,21 @@
   color: #61dafb;
 }
 
+.App-button {
+  border: none;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 100%;
+  background-color: #61dafb;
+  color: black;
+  font-size: xx-large;
+}
+
+.btn-container {
+  display: flex;
+  gap: 2rem;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
